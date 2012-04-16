@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Proxy method test</title>
+<title>Adapter method test</title>
 </head>
 
 <body>
