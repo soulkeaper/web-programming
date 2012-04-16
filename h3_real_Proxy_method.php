@@ -1,3 +1,10 @@
+<html>
+
+<head>
+<title>Adapter method test</title>
+</head>
+
+<body>
 <?php
 
 class ProxyCarList {
@@ -141,3 +148,5 @@ class Car {
   }
 
 ?>
+</body>
+</html>
